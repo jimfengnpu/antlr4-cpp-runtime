@@ -6,6 +6,7 @@
 *.lo
 *.o
 *.obj
+*.jar
 
 # Precompiled Headers
 *.gch
@@ -30,3 +31,10 @@
 *.exe
 *.out
 *.app
+
+.vscode/
+build/
+CMakeFiles/
+_deps/
+Makefile
+cmake_install.cmake
