@@ -34,6 +34,8 @@
 
 .vscode/
 build/
+dist/
+demo/generated/
 CMakeFiles/
 _deps/
 Makefile
